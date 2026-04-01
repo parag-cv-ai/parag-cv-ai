@@ -3,14 +3,32 @@
 <!--
 **parag-cv-ai/parag-cv-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Parag Bhuyan 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔬 About Me
+- PhD in Computer Science (AI & Deep Learning)
+- Research focus: Computer Vision, Precision Agriculture
+- Specialization: Image Classification, Object Detection, Segmentation
+
+🚀 Research Interests
+- Efficient Deep Learning
+- Vision Transformers
+- Lightweight Models for Edge AI
+- AI in Agriculture & Healthcare
+
+🧠 Current Work
+- Hybrid Model for Plant Disease Detection
+- Dynamic YOLO for Real-time Object Detection
+- Adaptive U-Net for Image Segmentation
+
+📊 Tech Stack
+- Python, PyTorch, TensorFlow
+- OpenCV, NumPy, Pandas
+
+📌 Featured Projects
+(Will be added soon)
+
+📫 Contact
+- Email: paragbhuyan12@gmail.com
+- LinkedIn: www.linkedin.com/in/dr-parag-bhuyan
 -->
