@@ -12,12 +12,12 @@ Hi, I'm Parag Bhuyan 👋
 
 🚀 Research Interests
 - Efficient Deep Learning
-- Vision Transformers
+- Compyer Vision
 - Lightweight Models for Edge AI
 - AI in Agriculture & Healthcare
 
 🧠 Current Work
-- Hybrid Model for Plant Disease Detection
+- Leightweight Model for Plant Disease Detection
 - Dynamic YOLO for Real-time Object Detection
 - Adaptive U-Net for Image Segmentation
 
